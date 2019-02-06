@@ -1,0 +1,11 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "a simple weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "author": "",
+  "license": "ISC"
+}
